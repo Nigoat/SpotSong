@@ -1,4 +1,4 @@
-# SpotSong - Purple Terminal Music Player
+# SpotSong ---- Terminal Music player
 
 A native cross-platform terminal music player written in modern C++17 and Qt 6. SpotSong is a 100% local-only audio library manager and player that runs directly in your terminal with rich purple ANSI styling, full keyboard navigation, and Discord Rich Presence.
 
