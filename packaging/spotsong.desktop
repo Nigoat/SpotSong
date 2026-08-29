@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SpotSong
+Comment=A purple dark theme Spotify clone local music player
+Exec=spotsong %F
+Icon=spotsong
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Player;Qt;
+MimeType=audio/mpeg;audio/x-mpeg;audio/mp3;audio/x-mp3;audio/flac;audio/x-flac;audio/ogg;audio/x-vorbis+ogg;audio/wav;audio/x-wav;audio/aac;audio/mp4;audio/x-m4a;
+StartupNotify=true
